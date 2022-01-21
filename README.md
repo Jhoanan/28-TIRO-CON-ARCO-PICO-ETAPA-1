@@ -1,1 +1,3 @@
-# 28-TIRO-CON-ARCO-PICO-ETAPA-1
+# Plantilla C28
+
+Plantilla C28
